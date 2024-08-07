@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\bin\Debug\net8.0-windows\FruitMemoryGame.exe
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\bin\Debug\net8.0-windows\FruitMemoryGame.deps.json
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\bin\Debug\net8.0-windows\FruitMemoryGame.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\bin\Debug\net8.0-windows\FruitMemoryGame.dll
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\bin\Debug\net8.0-windows\FruitMemoryGame.pdb
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\obj\Debug\net8.0-windows\FruitMemoryGame.Form1.resources
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\obj\Debug\net8.0-windows\FruitMemoryGame.Resources.resources
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\obj\Debug\net8.0-windows\FruitMemoryGame.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\obj\Debug\net8.0-windows\FruitMemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\obj\Debug\net8.0-windows\FruitMemoryGame.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\obj\Debug\net8.0-windows\FruitMemoryGame.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\obj\Debug\net8.0-windows\FruitMemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\obj\Debug\net8.0-windows\FruitMemoryGame.dll
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\obj\Debug\net8.0-windows\refint\FruitMemoryGame.dll
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\obj\Debug\net8.0-windows\FruitMemoryGame.pdb
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\obj\Debug\net8.0-windows\FruitMemoryGame.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FruitMemoryGame\FruitMemoryGame\obj\Debug\net8.0-windows\ref\FruitMemoryGame.dll
