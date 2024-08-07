@@ -11,4 +11,6 @@ Project is created with:
 * C# Wndows forms
 * Visual Studio 2022
 
+## Screen
+
 ![Algorithm schema](./screen.png)
