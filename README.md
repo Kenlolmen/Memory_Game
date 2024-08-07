@@ -10,3 +10,5 @@ Ten projekt jest prostą grą w pamięć. Jest to moja pierwsza przygoda z języ
 Project is created with:
 * C# Wndows forms
 * Visual Studio 2022
+
+![Algorithm schema](./screen.jpg)
