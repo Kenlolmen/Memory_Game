@@ -8,7 +8,7 @@ Ten projekt jest prostą grą w pamięć. Jest to moja pierwsza przygoda z języ
 	
 ## Technologies
 Project is created with:
-* C# Wndows forms
+* C# Windows forms
 * Visual Studio 2022
 
 ## Screen
